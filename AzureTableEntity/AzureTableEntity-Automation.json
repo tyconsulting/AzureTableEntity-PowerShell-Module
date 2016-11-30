@@ -1,0 +1,24 @@
+{
+    "ConnectionFields":  [
+                             {
+                                 "IsEncrypted":  false,
+                                 "IsOptional":  false,
+                                 "Name":  "StorageAccount",
+                                 "TypeName":  "System.String"
+                             },
+                             {
+                                 "IsEncrypted":  false,
+                                 "IsOptional":  false,
+                                 "Name":  "TableName",
+                                 "TypeName":  "System.String"
+                             },
+                             {
+                                 "IsEncrypted":  true,
+                                 "IsOptional":  false,
+                                 "Name":  "StorageAccountAccessKey",
+                                 "TypeName":  "System.String"
+                             }
+                         ],
+    "ConnectionTypeName":  "AzureTable",
+    "IntegrationModuleName":  "AzureTableEntity"
+}
