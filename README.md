@@ -42,7 +42,7 @@ https://www.powershellgallery.com/packages/AzureTableEntity
 https://gist.github.com/tyconsulting/1ff706181d8e476528c86b8f7ac8af23
 
 ###AzureTableEntity PowerShell module Blog Post:
-
+http://blog.tyang.org/2016/11/30/powershell-module-for-managing-azure-table-storage-entities
 
 ###Azure Table REST API official documentation:
 https://docs.microsoft.com/en-us/rest/api/storageservices/fileservices/table-service-rest-api
