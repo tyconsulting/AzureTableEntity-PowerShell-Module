@@ -6,7 +6,7 @@ This repository contains the source code of the AzureTableEntity PowerShell modu
 ### Install from PowerShell Gallery
 Install-module AzureTableEntity
 
-###M anually Install
+### Manual Install
 Download this module from github, and place the AzureTableEntity module folder to 'C:\Program Files\WindowsPowerShell\Modules'
 
 ### Download from PowerShell Gallery
